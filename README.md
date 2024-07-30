@@ -1,2 +1,2 @@
 # SQL-Aggregation
-Aggregation - SQL
+
